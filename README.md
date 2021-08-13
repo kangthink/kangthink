@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**kangthink/kangthink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ __                               __    __                  __         
+/\ \                             /\ \__/\ \      __        /\ \        
+\ \ \/'\      __      ___      __\ \ ,_\ \ \___ /\_\    ___\ \ \/'\    
+ \ \ , <    /'__`\  /' _ `\  /'_ `\ \ \/\ \  _ `\/\ \ /' _ `\ \ , <    
+  \ \ \\`\ /\ \L\.\_/\ \/\ \/\ \L\ \ \ \_\ \ \ \ \ \ \/\ \/\ \ \ \\`\  
+   \ \_\ \_\ \__/.\_\ \_\ \_\ \____ \ \__\\ \_\ \_\ \_\ \_\ \_\ \_\ \_\
+    \/_/\/_/\/__/\/_/\/_/\/_/\/___L\ \/__/ \/_/\/_/\/_/\/_/\/_/\/_/\/_/
+                               /\____/                                 
+                               \_/__/                                  
+```
 
-Here are some ideas to get you started:
+## Kangthink
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+생각🧠을 바로 코드✍️로 자유롭게 표현하고 싶은 개발자입니다.
+
+### 최근 화두
+- 개발블로그를 시작해서 그 동안의 개발 경험을 깊이 있게 풀어낼까?
+- 모두를 위한 개발자 커뮤니티 **코딩학당** 어떻게 구현해 낼까?
+- 지금 보다 더 좋은 소프트웨어를 만드는 법과 그 훈련법은?
